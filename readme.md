@@ -13,7 +13,7 @@ The currently enabled/disabled features are:
 - Set print bed to 220x220 with the volume of 300   
 - Enabled Manual Mesh Bed Leveling  
 - #define MESH_BED_LEVELING  
-- ** TO DO ** Enable Restore Leveling Data after G28 (for mesh leveling) - Right now I just use M420 S1 after G28  
+- Enable Restore Leveling Data after G28 (for mesh leveling)
 - Enabled LCD Bed Leveling Menu  
 - Disabled Status Message Scrolling (reclaim memory space)  
 - Disabled Long Filename Scrolling (reclaim memory space)  
